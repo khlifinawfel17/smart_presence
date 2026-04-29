@@ -15,5 +15,4 @@ This application helps teachers  manage attendance digitally using QR code techn
 - Dart
 - Local Database (SQLite / Shared Preferences)
 
-## 🚀 How to Run
-1. Clone the repository:
+
