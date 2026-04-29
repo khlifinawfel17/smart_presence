@@ -1,16 +1,19 @@
-# project
+# Smart Presence 📱
 
-A new Flutter project.
+Smart Presence is a university application designed to manage student attendance in a simple and efficient way.
 
-## Getting Started
+## 🎯 Project Description
+This application helps teachers  manage attendance digitally using QR code technology. It replaces traditional paper attendance with a faster and more reliable system.
 
-This project is a starting point for a Flutter application.
+## ⚙️ Features
+- Student registration and management
+- Real-time presence monitoring
+- Local data storage
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Local Database (SQLite / Shared Preferences)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone the repository:
